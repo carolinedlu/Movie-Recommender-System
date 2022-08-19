@@ -26,7 +26,6 @@
 
 """
 # Streamlit dependencies
-pip install htbuilder
 import random
 from ssl import Options
 import streamlit as st
